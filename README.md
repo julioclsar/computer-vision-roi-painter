@@ -1,8 +1,8 @@
 ﻿# Region of Interest Painter
 
-Pinta de verde uma regiÃ£o retangular definida por coordenadas na imagem.
+Pinta de verde uma região retangular definida por coordenadas na imagem.
 
-Este Ã© um exercÃ­cio de estudo do curso de VisÃ£o Computacional, organizado como projeto independente para facilitar a leitura e a execuÃ§Ã£o.
+Este é um projeto independente criado durante um curso de Visão Computacional.
 
 ## Tecnologias
 
@@ -13,14 +13,10 @@ Este Ã© um exercÃ­cio de estudo do curso de VisÃ£o Computacional, organiza
 
 ~~~powershell
 pip install -r requirements.txt
-python Atividade2.py
+python roi_painter.py
 ~~~
 
 ## Arquivos
 
-- **Atividade2.py**: implementaÃ§Ã£o do exercÃ­cio.
-- Arquivos de imagem/classificador necessÃ¡rios Ã  demonstraÃ§Ã£o.
-
-## Contexto
-
-ExercÃ­cio originalmente localizado em **cap2/Atividade2.py** na coleÃ§Ã£o do curso.
+- **roi_painter.py**: implementação do projeto.
+- Arquivos de imagem/classificador necessários à demonstração.
